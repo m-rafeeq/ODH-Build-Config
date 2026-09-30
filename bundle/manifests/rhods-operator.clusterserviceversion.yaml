@@ -106,7 +106,7 @@ metadata:
     categories: AI/Machine Learning, Big Data
     certified: "False"
     containerImage: "quay.io/opendatahub/opendatahub-operator@sha256:3e8cb9c4f17de064430c7af7904bb224eb752122c924ee1db5ff34c5ccc2d1b3"
-    createdAt: "2026-09-30T05:00:23Z"
+    createdAt: "2026-09-30T05:09:06Z"
     description: Operator for deployment and management of Red Hat OpenShift AI
     features.operators.openshift.io/cnf: "false"
     features.operators.openshift.io/cni: "false"
